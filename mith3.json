@@ -4,6 +4,7 @@
     "description": "Mithras The Cat",
     "image": "https://raw.githubusercontent.com/MasterKeits/test/main/mit.jpg",
     "external_url": "https://yourwebsite.com",
+    "animation_url": "https://foo.bar",
     "attributes": [
         {
             "trait_type": "Twitter",

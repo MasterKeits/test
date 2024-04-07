@@ -2,5 +2,16 @@
     "name": "Mithras",
     "symbol": "MITHR",
     "description": "Mithras The Cat",
-    "image": "https://raw.githubusercontent.com/MasterKeits/test/main/mit.jpg"
+    "image": "https://raw.githubusercontent.com/MasterKeits/test/main/mit.jpg",
+    "external_url": "https://yourwebsite.com",
+    "attributes": [
+        {
+            "trait_type": "Twitter",
+            "value": "@YourTwitterHandle"
+        },
+        {
+            "trait_type": "Website",
+            "value": "https://yourwebsite.com"
+        }
+    ]
 }
